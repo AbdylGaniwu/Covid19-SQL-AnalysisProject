@@ -1,6 +1,6 @@
 # COVID 19 Data Analysis Project
 
-This project provides a comprehensive analysis of COVID-19 data using SQL. It includes several queries to analyze the impact of COVID-19 across different countries (including my country of residence: Ghana) and continents. The data is sourced from two tables: `CovidDeathData` and `CovidVaccinationsData`.
+This project provides a comprehensive analysis of COVID-19 data using SQL. It includes several queries to analyze the impact of COVID-19 across different countries (including my country of residence: Ghana) and continents.
 
 ## Project Structure and Key Features
 
